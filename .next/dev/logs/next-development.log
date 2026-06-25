@@ -1,4 +1,0 @@
-{"timestamp":"00:00:01.744","source":"Server","level":"LOG","message":""}
-{"timestamp":"00:00:01.876","source":"Server","level":"WARN","message":"⚠ Slow filesystem detected. The benchmark took 974ms. If /home/pc/Downloads/closerrra-v3-real-images/.next/dev is a network drive, consider moving it to a local folder.\nSee more: https://nextjs.org/docs/app/guides/local-development"}
-{"timestamp":"00:00:37.239","source":"Server","level":"LOG","message":"○ Compiling / ..."}
-{"timestamp":"00:00:41.698","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
